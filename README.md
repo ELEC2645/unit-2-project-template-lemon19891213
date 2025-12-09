@@ -1,4 +1,4 @@
-Core Functionality
+###Core Functionality
 This scientific calculator, implemented in C for command-line interaction, focuses on four core functionalities for scientific computing scenarios, combining robustness with ease of use:
 Basic arithmetic operations: Supports addition, subtraction, multiplication, division, integer modulo operations, and exponentiation. Built-in boundary checks for division by zero and invalid exponentiation (e.g., negative numbers raised to non-integer powers) prevent programme exceptions;
 Trigonometric Functions: Covers sine (sin), cosine (cos), and tangent (tan) operations. Supports dual-unit angle input (degrees/radians) with automatic conversion between degrees and radians. Handles undefined scenarios such as singularities in the tangent function (π/2 + kπ).
